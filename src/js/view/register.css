@@ -1,0 +1,40 @@
+.cajaUsuarios {
+    background-color: black;
+    box-shadow: white;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    margin-top: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  h2,
+  h4 {
+    text-align: center;
+  }
+  
+  .cajaUsuarios {
+    text-align: center;
+    
+  }
+  
+  .botones {
+    margin-top: 5px;
+  }
+  
+  .botones button {
+    background-color: black;
+    box-shadow:  5px 3px 5px 0 white;
+    font-size: 35px;
+    padding: 20px 35px;
+    margin: 30px;
+  }
+  .x {
+    color: yellow;
+    border-radius: 5px;
+  }
+  
+  .o {
+    color: rgb(73, 218, 218);
+    border-radius: 5px;
+  }
